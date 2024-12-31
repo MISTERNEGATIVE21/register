@@ -8,8 +8,8 @@ on:
         paths:
             - "domains/*"
             - "tests/*"
-            - "utils/*"
-            - ".github/workflows/validate.yml"
+            - "util/*"
+            - ".github/workflows/validation.yml"
             - "dnsconfig.js"
 
     workflow_dispatch:
