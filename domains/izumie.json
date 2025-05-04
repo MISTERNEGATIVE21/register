@@ -5,8 +5,8 @@
     "username": "LexisMate",
     "email": "izumieprivateltd@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "mr-izumie.vercel.app"
   },
-  "proxied": true
+  "proxied": false
 }
